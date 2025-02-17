@@ -45,7 +45,7 @@ export const pizzaData = [
     name: "Sweet and Salty",
     ingredients: "With onions and tomatoes and tangy masala with cheese on top",
     price: 199,
-    photoName: "pizzas/corn.jpg",
+    photoName: "pizzas/Corn.jpg",
     soldOut: false,
   },
 ];
