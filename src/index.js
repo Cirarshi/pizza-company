@@ -10,7 +10,7 @@ export const pizzaData = [
     name: "Garden Fresh",
     ingredients: "Lots of mouth watering fresh veggies",
     price: 199,
-    photoName: "pizzas/fresh.jpg",
+    photoName: "pizzas/fresh.JPG",
     soldOut: false,
   },
   {
@@ -45,7 +45,7 @@ export const pizzaData = [
     name: "Sweet and Salty",
     ingredients: "With onions and tomatoes and tangy masala with cheese on top",
     price: 199,
-    photoName: "pizzas/corn.jpg",
+    photoName: "pizzas/Corn.jpg",
     soldOut: false,
   },
 ];
