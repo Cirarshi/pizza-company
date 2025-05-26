@@ -7,7 +7,7 @@ export default function Pizza({ pizzaObj }) {
       <div>
         <h3>{pizzaObj.name}</h3>
         <p>{pizzaObj.ingredients}</p>
-        <span>{pizzaObj.soldOut ? "Sold Out" : pizzaObj.price}</span>
+        <span>{pizzaObj.soldOut ? "Sold Out" : `${pizzaObj.price} Rs.`}</span>
       </div>
     </li>
   );
