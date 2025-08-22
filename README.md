@@ -52,10 +52,14 @@ cd pizza-company
 ```
 
 📦 Install Dependencies
+```bash
 npm install
+```
 
 ▶️ Start Development Server
+```bash
 npm start
+```
 
 The app will be available at http://localhost:3000
  🌐
