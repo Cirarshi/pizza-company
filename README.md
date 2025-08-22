@@ -4,6 +4,21 @@ Welcome to **Pizza Company** — a sleek and responsive **React.js** application
 
 ---
 
+## 📚 Table of Contents
+
+- [✨ Features](#-features) 
+- [🛠️ Tech Stack](#-tech-stack)  
+- [📁 Project Structure](#-project-structure)  
+- [🚀 Getting Started](#️-getting-started)
+- [📸 Preview](#-preview)
+- [🌟 Customization Ideas](#-customization-ideas)
+- [🤝 Contributing](#-contributing)  
+- [📄 License](#-license)  
+- [🙏 Acknowledgments](#-acknowledgments)
+- [📬 Connect with MeE](#-connect-with-me)
+
+---
+
 ## 🧩 Features
 
 ✨ Modern and minimal UI  
@@ -64,12 +79,15 @@ npm start
 The app will be available at http://localhost:3000
  🌐
 
-📸 Preview
+ ---
+
+## 📸 Preview
 
 <img width="1896" height="898" alt="image" src="https://github.com/user-attachments/assets/9a6432ac-3cfb-4ce2-9a14-db587aa72693" />
 
+---
 
-🌟 Customization Ideas
+## 🌟 Customization Ideas
 
 Here are a few ideas to improve and expand your app:
 
@@ -80,7 +98,9 @@ Here are a few ideas to improve and expand your app:
 - 💬 Customer reviews or ratings
 - 🔌 Backend integration for dynamic data
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a Pull Request.
 
@@ -94,14 +114,20 @@ Push to the branch: git push origin feature/YourFeature
 
 Open a Pull Request ✅
 
-📄 License
+---
+
+## 📄 License
 Feel free to use and modify it for personal or commercial projects.
 
-🙌 Acknowledgments
+---
+
+## 🙌 Acknowledgments
 Inspired by clean, minimal restaurant UIs
 Built as a personal practice and showcase project using React
 
-📬 Connect with Me
+---
+
+## 📬 Connect with Me
 GitHub: [@Cirarshi](https://github.com/Cirarshi)
 LinkedIn: https://www.linkedin.com/in/utkarsh-kapoor-6b3200127/
 
