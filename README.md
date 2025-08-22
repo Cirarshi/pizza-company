@@ -129,5 +129,6 @@ Built as a personal practice and showcase project using React
 
 ## 📬 Connect with Me
 GitHub: [@Cirarshi](https://github.com/Cirarshi)
+
 LinkedIn: https://www.linkedin.com/in/utkarsh-kapoor-6b3200127/
 
