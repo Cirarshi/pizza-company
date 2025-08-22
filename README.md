@@ -26,16 +26,7 @@ Welcome to **Pizza Company** — a sleek and responsive **React.js** application
 
 ## 📂 Project Structure
 
-pizza-company/ 
-├── public/
-│   └── index.html 
-├── src/
-│   ├── components/        # Reusable UI components
-│   ├── data/              # Static data (e.g., pizza list)
-│   ├── App.jsx            # Main app component
-│   └── index.jsx          # App bootstrap
-├── package.json
-└── README.md
+<pre> ```bash pizza-company/ ├── public/ │ └── index.html ├── src/ │ ├── components/ # UI components │ ├── data/ # Static data like pizza list │ ├── App.jsx # Main app component │ └── index.jsx # React entry point ├── package.json └── README.md ``` </pre>
 
 
 
