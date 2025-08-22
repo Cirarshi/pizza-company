@@ -97,7 +97,6 @@ Open a Pull Request ✅
 
 📄 License
 
-This project is licensed under the MIT License.
 Feel free to use and modify it for personal or commercial projects.
 
 🙌 Acknowledgments
