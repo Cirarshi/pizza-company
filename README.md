@@ -15,7 +15,7 @@ Welcome to **Pizza Company** — a sleek and responsive **React.js** application
 - [🤝 Contributing](#-contributing)  
 - [📄 License](#-license)  
 - [🙏 Acknowledgments](#-acknowledgments)
-- [📬 Connect with MeE](#-connect-with-me)
+- [📬 Connect with Me](#-connect-with-me)
 
 ---
 
