@@ -53,14 +53,9 @@ cd pizza-company
 
 📦 Install Dependencies
 npm install
-# or
-yarn install
 
 ▶️ Start Development Server
 npm start
-# or
-yarn start
-
 
 The app will be available at http://localhost:3000
  🌐
