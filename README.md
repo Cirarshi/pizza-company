@@ -72,46 +72,29 @@ The app will be available at http://localhost:3000
 🌟 Customization Ideas
 
 Here are a few ideas to improve and expand your app:
-
-🛒 Add to Cart functionality
-
-🔍 Search & filter pizzas by toppings, name, or price
-
-🌈 Theming: Dark mode or custom branding
-
-📆 Opening hours logic with real-time updates
-
-💬 Customer reviews or ratings
-
-🔌 Backend integration for dynamic data
+- 🛒 Add to Cart functionality
+- 🔍 Search & filter pizzas by toppings, name, or price
+- 🌈 Theming: Dark mode or custom branding
+- 📆 Opening hours logic with real-time updates
+- 💬 Customer reviews or ratings
+- 🔌 Backend integration for dynamic data
 
 🤝 Contributing
-
 Contributions are welcome! Feel free to fork the repo and submit a Pull Request.
-
 Fork the project 🍴
-
 Create your feature branch: git checkout -b feature/YourFeature
-
 Commit your changes: git commit -m "Add your feature"
-
 Push to the branch: git push origin feature/YourFeature
-
 Open a Pull Request ✅
 
 📄 License
-
 Feel free to use and modify it for personal or commercial projects.
 
 🙌 Acknowledgments
-
 Inspired by clean, minimal restaurant UIs
-
 Built as a personal practice and showcase project using React
 
 📬 Connect with Me
-
 GitHub: [@Cirarshi](https://github.com/Cirarshi)
-
 LinkedIn: https://www.linkedin.com/in/utkarsh-kapoor-6b3200127/
 
